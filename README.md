@@ -17,3 +17,5 @@ It contains the following 6 fields:
     text: the text of the tweet (Lyx is cool)
 
 In the Jupyter Notebook, we perform exploratory anaylysis of tweets, with WordClouds, preprocess the tweets, perform count vectorization and run several classification models and evaluate them.
+
+https://www.kaggle.com/kazanova/sentiment140
