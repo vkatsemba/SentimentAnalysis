@@ -14,3 +14,10 @@ text: the text of the tweet (Lyx is cool)
 In the Jupyter Notebook, we perform exploratory anaylysis of tweets, with WordClouds, preprocess the tweets, perform count vectorization and run several classification models and evaluate them.
 
 https://www.kaggle.com/kazanova/sentiment140
+
+IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
+This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
+
+In the Jupyter Notebook, we perform exploratory anaylysis of tweets, with WordClouds, preprocess the tweets, perform tfidf vectorization and porter stemming before running a Logistic Regression classification model with tuned hyperparameters and evaluate it.
+
+http://ai.stanford.edu/~amaas/data/sentiment/
